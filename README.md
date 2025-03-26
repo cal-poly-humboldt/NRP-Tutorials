@@ -1,2 +1,2 @@
 # NRP-Tutorials
-All things NRP related to our campus
+NRP Tutorials for Cal Poly Humboldt Users
